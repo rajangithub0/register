@@ -1,0 +1,17 @@
+div{
+    padding: 2.5px;
+    margin: 15px;        
+}
+ body{
+    background-color: lightblue;
+ }
+.kit{
+    text-align: left;
+}    
+#min{
+    padding: 2.5px;
+    margin: 15px;
+}
+p{
+    padding: left;
+}
